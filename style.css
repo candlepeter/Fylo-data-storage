@@ -17,6 +17,7 @@ body {
   justify-content: center;
   color: var(--GrayishBlue);
   background: var(--VeryDarkBlue);
+  font-family: "Raleway" sans-serif;
   overflow: hidden;
 }
 
